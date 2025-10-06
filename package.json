@@ -1,9 +1,5 @@
 {
   "dependencies": {
     "firebase": "^12.3.0"
-  },
-
-  "scripts": {
-    "build": "vite build"
   }
 }
